@@ -61,59 +61,50 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: About Ruby, Gems, Bundler, etc.
-      url: /mydoc_about_ruby_gems_etc.html
+    - title: How to connect the robot to your network.
+      url: /more_connecting.html
       output: web, pdf
 
-    - title: Install Jekyll on Mac
-      url: /mydoc_install_jekyll_on_mac.html
+    - title: How to setup a workstation with ROS
+      url: /more_workstation_setup.html
       output: web, pdf
 
-    - title: Install Jekyll on Windows
-      url: /mydoc_install_jekyll_on_windows.html
+    - title: Visualization with RViZ 
+      url: /more_rviz.html
+      output: web, pdf
+
+    - title: Setting up fiducial navigation 
+      url: /more_fiducial_nav.html
+      output: web, pdf
+
+    - title: Using Robot Commander with Waypoints
+      url: /more_rc_waypoints.html
+      output: web, pdf
+
+    - title: Using the sensor package
+      url: /more_sensors.html
       output: web, pdf
 
   - title: Programming Your Robot
     output: web, pdf
 
     folderitems:
-    - title: Pages
-      url: /mydoc_pages.html
+    - title: Overview
+      url: /programming_overview.html
       output: web, pdf
 
-    - title: Posts
-      url: /mydoc_posts.html
+    - title: Tips For Developers
+      url: /programming_tips.html
       output: web, pdf
 
-    - title: Lists
-      url: /mydoc_lists.html
-      output: web, pdf
-
-    - title: Conditional logic
-      url: /mydoc_conditional_logic.html
-      output: web, pdf
-
-    - title: Content reuse
-      url: /mydoc_content_reuse.html
-      output: web, pdf
-
-    - title: Collections
-      url: /mydoc_collections.html
-      output: web, pdf
-
-    - title: WebStorm editor tips
-      url: /mydoc_webstorm_text_editor.html
-      output: web, pdf
-
-    - title: Atom editor tips
-      url: /mydoc_atom_text_editor.html
+    - title: Fiducial Follow Example
+      url: /programming_fiducial_follow.html
       output: web, pdf
 
   - title: Troubleshooting
     output: web, pdf
 
     folderitems:
-
     - title: Troubleshooting
       url: /mydoc_troubleshooting.html
       output: web, pdf
